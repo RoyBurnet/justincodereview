@@ -1,0 +1,19 @@
+body {
+	  background-image: url(../afbeelding/cloud.jpg);
+  background-size: 125%;
+  background-attachment: fixed;
+}
+
+
+a, h1 { 
+color: blue;
+}
+h3 { 
+color: white;
+}
+.table a
+{
+    display:block;
+	text-decoration:none;
+}
+
